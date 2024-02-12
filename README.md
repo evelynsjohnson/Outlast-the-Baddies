@@ -3,7 +3,7 @@
    - Defines a template class called Grid. The purpose of this class is to represent a 2D grid or matrix with elements of type T. The class provides functionality for creating, manipulating, and managing a grid of arbitrary size.
    - Implements smaller helper functions to return the number of columns, total elements, etc.
 
-3. Handling movement and object places
+2. Handling movement and object places
    Defines a set of classes representing different types of cells on a game board for a maze-like game, each handling its specific behavior, such as movement, display, and categorization on the game board
    BoardCell (Abstract Base Class):
       - Represents a generic cell on the game board.
