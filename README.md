@@ -5,6 +5,7 @@
 
 2. Handling movement and object places
    Defines a set of classes representing different types of cells on a game board for a maze-like game, each handling its specific behavior, such as movement, display, and categorization on the game board
+   
    BoardCell (Abstract Base Class):
       - Represents a generic cell on the game board.
       - Provides virtual functions for displaying the cell, attempting to move to a new position, and checking the type of the cell.
