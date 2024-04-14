@@ -1,4 +1,4 @@
-# Outlast-the-Baddies
+# Outlast the Baddies & Avoid the Abyss
 1. Setting up the board
    - Defines a template class called Grid. The purpose of this class is to represent a 2D grid or matrix with elements of type T. The class provides functionality for creating, manipulating, and managing a grid of arbitrary size.
    - Implements smaller helper functions to return the number of columns, total elements, etc.
